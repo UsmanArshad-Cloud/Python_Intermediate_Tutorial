@@ -1,0 +1,20 @@
+<family>
+    <parent>
+        <name>John</name>
+        <child>
+            <name>Emma</name>
+        </child>
+        <child>
+            <name>Michael</name>
+            <child>
+                <name>Alice</name>
+            </child>
+        </child>
+    </parent>
+    <parent>
+        <name>Susan</name>
+        <child>
+            <name>Lucas</name>
+        </child>
+    </parent>
+</family>

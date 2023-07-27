@@ -1,0 +1,20 @@
+<library>
+    <book>
+        <title>Python Crash Course</title>
+        <author>Eric Matthes</author>
+        <genre>Programming</genre>
+        <published>2015</published>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+        <published>1949</published>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <genre>Classic</genre>
+        <published>1925</published>
+    </book>
+</library>
